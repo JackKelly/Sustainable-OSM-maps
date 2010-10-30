@@ -273,12 +273,14 @@ def doTransport():
 
   # Get and process data for railway stations
   xapi_url = 'http://xapi.openstreetmap.org/api/0.6/node[railway=station][bbox=-0.51,51.20,0.35,51.80]'
-  xsl_uri = 'trans_amenity_generic.xsl'
+  xsl_uri = 'trans_station.xsl'
   features = {"railway":"station"}
   poi_data = processRawData(xapi_url, xsl_uri, features)
   for row in poi_data:
     if (row['lat'] == None):
       continue
+    if (row['tfl_travelzone']):
+      row['description'] = ''.join([row['description'], """<p><strong>TfL travel zone:</strong> %s</p>""" % (row['tfl_travelzone'])])
     if (row['network'] == 'London Underground'):
       iconstyle = 'transportTube'
     elif (row['network'] == 'DLR'):
@@ -291,7 +293,7 @@ def doTransport():
 
   # Get and process data for tram stops
   xapi_url = 'http://xapi.openstreetmap.org/api/0.6/node[railway=tram_stop][bbox=-0.51,51.20,0.35,51.80]'
-  xsl_uri = 'trans_amenity_generic.xsl'
+  xsl_uri = 'trans_station.xsl'
   features = {"railway":"tram_stop"}
   poi_data = processRawData(xapi_url, xsl_uri, features)
   for row in poi_data:
@@ -431,22 +433,22 @@ def doPower(uk):
   
 if __name__=="__main__":
   c = doPower(0)
-  f = open('../public_html/kml/power.kml', 'w')
+  f = open('kml/power.kml', 'w')
   f.write(c)
   f.close()
   c = doFood()
-  f = open('../public_html/kml/food.kml', 'w')
+  f = open('kml/food.kml', 'w')
   f.write(c)
   f.close()
   c = doWaste()
-  f = open('../public_html/kml/waste.kml', 'w')
+  f = open('kml/waste.kml', 'w')
   f.write(c)
   f.close()
   c = doTransport()
-  f = open('../public_html/kml/transport.kml', 'w')
+  f = open('kml/transport.kml', 'w')
   f.write(c)
   f.close()
   c = doPower(1)
-  f = open('../public_html/kml/power_uk.kml', 'w')
+  f = open('kml/power_uk.kml', 'w')
   f.write(c)
   f.close()
