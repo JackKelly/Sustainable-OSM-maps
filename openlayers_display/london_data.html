@@ -1,0 +1,85 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <title>Sustainable London map</title>
+    <link rel="stylesheet" href="script/style.css" TYPE="text/css">
+  </head>
+
+  <body>
+
+  <div id="header">
+    <h1>Sustainable London map</h1>
+  </div>
+
+  <div id="menu">
+    <ul>
+      <li><a href="london.html">The map</a></li>
+      <li><a href="london_data.html">Where the data comes from</a></li>
+      <li><a href="london_use.html">Using the map on your web site</a></li>
+    </ul>
+  </div>
+
+  <div id="contents">
+    <h2>Where the data comes from</h2>
+
+    <p>The map takes the entries from <a href="http://www.openstreetmap.org">OpenStreetMap</a>, a community that is mapping the whole world and providing all of the information as <a href="http://www.opendefinition.org/okd/">open data</a>. We take a fresh data extract every hour and turn it into reusable KML Files, which show up on this map and can be easily <a href="london_use.html">used on other web sites or mapping systems</a>.</p>
+
+    <h3>Techie details</h3>
+
+    <p>A cron-scheduled python script grabs the data using the <a href="http://wiki.openstreetmap.org/wiki/XAPI">eXtended API</a>, processes the data using an XSLT transformation and some extra code to interpret the complex tagging and make the information more readable, then drops the data into KML files. </p>
+
+    <p>You can <a href="extract_pois.py">download the script</a> if you want to hack around with it.</p>
+
+    <p>This is the tagging we use to filter out the features and build the KML. To ensure your features shows up properly, make sure you add all of these tags!</p>
+
+    <h4>All icons</h4>
+    <ul>
+      <li>name - title for the popup bubbles</li>
+      <li>description - basis for the popup bubble contents</li>
+      <li>operator - often used to describe the company/organisation/person operating the feature</li>
+      <li>website - link to a given web address</li>
+      <li>wikipedia - link to a given Wikipedia article</li>
+      <li>flickr - take the id of a photo (the number at the end of a photo URL) and display it in the bubble with the Flickr API</li>
+      <li>ref - ref codes can be used for various things such as train station timetables</li>
+    </ul>
+
+    <h4>Low carbon power</h4>
+    <ul>
+      <li><strong>Filter:</strong> power=generator (<a href="http://wiki.openstreetmap.org/wiki/Tag:power%3Dgenerator">ref</a>)</li>
+      <li><strong>Style according to:</strong>
+	<ul>
+	  <li>generator:source (<a href="http://wiki.openstreetmap.org/wiki/Key:generator:source">ref</a>)</li>
+	  <li>generator:output:* (<a href="http://wiki.openstreetmap.org/wiki/Key:generator:output">ref</a>)</li>
+	  <li>generator:method (<a href="http://wiki.openstreetmap.org/wiki/Key:generator:method">ref</a>)</li>
+        </ul></li>
+    </ul>
+
+    <h4>Zero waste</h4>
+    <ul>
+      <li><strong>Filter:</strong> amenity=recycling (<a href="http://wiki.openstreetmap.org/wiki/Tag:amenity%3Drecycling">ref</a>)</li>
+      <li><strong>Filter:</strong> amenity=waste_transfer_station (<a href="http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dwaste_transfer_station">ref</a>)</li>
+      <li><strong>Description:</strong> extract all materials that the bin/transfer station helps you recycle</li>
+    </ul>
+
+    <h4>Sustainable food</h4>
+    <ul>
+      <li><strong>Filter:</strong> landuse=allotments (<a href="http://wiki.openstreetmap.org/wiki/Tag:landuse%3Dallotments">ref</a>)</li>
+      <li><strong>Filter:</strong> amenity=marketplace (<a href="http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dmarketplace">ref</a>)</li>
+	<ul>
+	  <li>fish=yes, <em>and/or</em></li>
+	  <li>vegetables=yes, <em>and/or</em></li>
+	  <li>meat=yes</li>
+        </ul>
+    </ul>
+
+    <h4>Sustainable transport</h4>
+    <ul>
+      <li><strong>Filter:</strong> amenity=car_sharing (<a href="http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dcar_sharing">ref</a>)</li>
+      <li><strong>Filter:</strong> amenity=bicycle_rental (<a href="http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_rental">ref</a>)</li>
+      <li><strong>Filter:</strong> railway=station / railway=tram_stop (<a href="http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_rental">ref</a>)</li>
+    </ul>
+  </div>
+
+  </body>
+
+</html>

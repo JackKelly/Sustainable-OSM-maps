@@ -1,0 +1,4887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Waste facilities in London</name>
+<Style id="wasteRecyclingBin">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/waste_recycle.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="wasteLandfill">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/waste_landfill.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="wasteRecyclingDepot">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/waste_recycle.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+
+
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4499988,51.7802715</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4648420,51.7746481</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4515903,51.7739538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4523536,51.7740170</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4555563,51.7744762</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4398716,51.7785316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4415493,51.7778662</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hemel Hempstead Household Waste Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4458718,51.7697309</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4894040,51.7654478</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.5005914,51.7495235</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4823211,51.7642091</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4825397,51.7646637</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4496783,51.7661037</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4608472,51.7601955</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4597597,51.7603803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4678126,51.7553061</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4384629,51.7533509</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4393082,51.7529613</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4344212,51.7517665</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4313959,51.7484295</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass_bottles, newspaper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3556320,51.7523477</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3592071,51.7465447</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3454203,51.7724079</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>St Albans Household Recycling Centre</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> wood, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3208680,51.7686899</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1777312,51.7975974</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2210649,51.7774937</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1524933,51.7821054</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, glass_bottles, magazines, newspaper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3394341,51.7532581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, magazines, newspaper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3386132,51.7528974</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, magazines, newspaper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3372587,51.7529756</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, magazines, newspaper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3372144,51.7534342</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> books, cans, cardboard, clothes, glass_bottles, newspaper, plastic_bags, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3137140,51.7514864</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3063410,51.7631502</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, magazines, newspaper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3031668,51.7564558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3416885,51.7440443</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass_bottles, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2282219,51.7637126</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2347657,51.7484972</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2155868,51.7636644</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2054879,51.7067977</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0096482,51.7606837</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0231703,51.7302418</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1755310,51.6960698</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0348805,51.7183503</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0347769,51.7099398</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0423529,51.6809878</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.443629,51.5638827</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass_bottles, paper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3607723,51.5641085</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3926148,51.5558148</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3521359,51.5246894</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2911628,51.6488699</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1940911,51.6440849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3392073,51.6042696</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2555601,51.6267385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2399024,51.6150991</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1767718,51.619007</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1850089,51.6179444</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0940916,51.6637033</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1401906,51.6451587</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0907838,51.6533814</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1106932,51.6453316</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0656867,51.6697572</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0775892,51.6629878</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0878612,51.6587098</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0761644,51.6512139</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1454181,51.6216625</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Barrowell Green Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0932594,51.6271212</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Summers Lane Civic Amenity and Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1615121,51.6067483</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0190324,51.6041840</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3271838,51.5892409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3076443,51.5860853</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3394667,51.5732409</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3138500,51.5796873</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, glass, glass_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3173189,51.5598113</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2775449,51.5616523</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2865822,51.5538527</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, plastic_bottles, </p><p><strong>Operator:</strong> Brent Council</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2894005,51.5535962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p><p><strong>Operator:</strong> traid</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2895116,51.5536093</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p><p><strong>Operator:</strong> traid</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3024510,51.5524015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2977226,51.5493053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2971136,51.5517729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2409152,51.5777997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2171744,51.5752178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.319474,51.5345391</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3020585,51.5445775</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2857098,51.5429166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2970561,51.5418179</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2968215,51.5422937</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p><p><strong>Operator:</strong> traid</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2981719,51.5412122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Brent Re-use and Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2786261,51.5371260</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2844007,51.5270835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Greenford Re-use and Recycling Centre</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, cans, engine_oil, glass_bottles, green_waste, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3512363,51.5240234</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3095306,51.5056168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2974771,51.5239781</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2804054,51.5175862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2516603,51.5457813</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2602184,51.5347283</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.20369,51.547668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1979165,51.5402065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1792556,51.5413984</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1919428,51.52596</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1981642,51.5186154</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1960728,51.5182611</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1769973,51.5203137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1864084,51.5175870</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2128192,51.5131967</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1804427,51.5116331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1337133,51.586618</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1180189,51.5828308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1036038,51.5901987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0965641,51.5854300</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0923038,51.5862526</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1309631,51.5735381</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1269089,51.5710217</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1248106,51.570564</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1243328,51.5701455</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1257484,51.5710337</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1266473,51.5707275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> magazines, newspaper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1046493,51.5776820</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1424227,51.5692443</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Waterlow Park</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, clothes, glass_bottles, newspaper, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.142757,51.56942</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1354940,51.5638496</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1650071,51.5543521</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1614019,51.5541004</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1633011,51.5493992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1613197,51.5533043</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1448257,51.5508258</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1424396,51.5531175</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1298588,51.5693976</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Elthorne Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1264079,51.5682183</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1117816,51.5690455</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1104694,51.568809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1215663,51.5623223</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1277843,51.5616849</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1166120,51.5617662</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1018042,51.5662109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0941204,51.5686644</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1213145,51.5580556</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1133616,51.5585910</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1115309,51.5563667</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1165393,51.5525975</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0702900,51.5900879</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0593763,51.5876467</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0652422,51.5705998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0646414,51.5702939</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0641022,51.5700171</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>South Access Road Household Waste and Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0374512,51.573751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0728235,51.5675393</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.082441,51.5547346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0795425,51.5551033</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0681217,51.5545276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0761147,51.5510518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0750091,51.5531306</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0455110,51.5550282</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0650537,51.5519006</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0558941,51.5518483</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.057762,51.5495354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0535328,51.5504349</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0404772,51.5537449</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0397234,51.5562928</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0425017,51.5492593</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1548424,51.5458619</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1559681,51.5443008</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1569948,51.539498</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1502358,51.5456629</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>recycling bin</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1488829,51.5432796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>recycling bins</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1490546,51.5434064</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1467058,51.5372589</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1413859,51.5371563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1738031,51.5346292</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1668565,51.5360056</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1701762,51.5316897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1717826,51.5263727</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1375828,51.5326991</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1348654,51.5344070</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1388316,51.5349541</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1390399,51.5289226</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1387817,51.5301228</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1410176,51.5299912</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1069829,51.5431850</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.099284,51.540404</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0939679,51.5413708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.093292,51.5406634</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1315914,51.5350134</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1097289,51.5339020</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1024093,51.5360283</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0963652,51.5360654</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0907629,51.5345248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0883373,51.5356579</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0894692,51.5362885</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0883175,51.5339608</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0891327,51.5345177</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0939071,51.5315923</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.107728,51.5277509</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1702291,51.5221735</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1697001,51.5207028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1661393,51.5209727</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1717969,51.5244898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1635383,51.5250186</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.154749,51.5206017</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1588790,51.5167121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.143424,51.524462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, clothes, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1320462,51.5195446</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.137581,51.518672</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1256441,51.5239824</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.131684,51.522765</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1164445,51.5249512</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1107249,51.5206394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1226626,51.5173122</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1245903,51.5163737</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1102739,51.5194808</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1196398,51.519126</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0998029,51.5255605</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0931884,51.5251233</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1091667,51.5180735</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1155463,51.5050117</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1046409,51.5040373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0950883,51.5063514</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0730588,51.5384744</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0735594,51.5407734</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0708342,51.5423560</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0561098,51.5455127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0495832,51.5432789</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0531945,51.5459373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0583193,51.5418835</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0550627,51.5411067</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0493046,51.5372689</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0878797,51.5361211</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0792967,51.5325922</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0838551,51.5278668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0803582,51.5299548</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0858172,51.5289162</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0797493,51.5309262</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0838485,51.5260719</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0851532,51.5264403</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0604442,51.5294341</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0491610,51.5279027</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0465377,51.5292548</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0495544,51.5282805</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0513066,51.5281345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0392643,51.5450943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0438175,51.5448499</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0368988,51.5445667</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0319977,51.5462949</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Waste Transfer Station</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0145721,51.5324298</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0214754,51.5303276</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0568161,51.5204667</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0542854,51.5226204</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0461301,51.5220051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0636516,51.5199695</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0625383,51.5180643</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0546142,51.5176076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0795467,51.5048214</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0831485,51.5048013</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0877505,51.5059967</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0666872,51.5079941</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0561169,51.5142524</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0570780,51.5125498</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0529884,51.5147811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0614645,51.5041556</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0400153,51.5175573</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0235319,51.5155331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0368138,51.5098015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0337382,51.5116233</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0341088,51.50897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0132039,51.5124809</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0131372,51.5137837</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0097597,51.5136486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0056976,51.5121682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.5002168,51.4615019</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4053474,51.4989631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4793483,51.4302141</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4827614,51.4252925</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4739978,51.4260127</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4411845,51.4221803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4436138,51.4267911</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, clothes, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3586164,51.4521504</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3602447,51.4393485</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3531449,51.4418719</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4213992,51.4195846</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3638660,51.4281775</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3605608,51.4274871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3559219,51.4280571</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3827619,51.4252087</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3736008,51.4169152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4316128,51.4082500</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3709752,51.4139676</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3698552,51.4157481</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.5065328,51.3677014</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4596815,51.3709953</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.5029497,51.3480896</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3634784,51.3701141</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3172628,51.5034724</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3297675,51.4844712</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3258272,51.4829123</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3066661,51.5014563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Sterling Road recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2750460,51.4994965</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2764728,51.5020597</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2672585,51.4938031</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2862351,51.4777171</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cardboard, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2906271,51.4775192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2995871,51.4753514</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2923223,51.4737169</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2865716,51.4750267</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2865662,51.4743751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2837740,51.4808306</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2693851,51.4817797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2698098,51.4816136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2755966,51.4750121</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3042324,51.4640558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.244791,51.494829</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2345751,51.4951823</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2235308,51.4974019</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2574161,51.4924978</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2055467,51.5017833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2223439,51.4710962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1972068,51.4808251</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Western Riverside</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1914862,51.4624946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3192892,51.4549874</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3101998,51.4557094</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3490476,51.4382167</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3429530,51.4426328</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3401534,51.4389320</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3385146,51.4289671</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3312018,51.4270628</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3331416,51.4270200</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3176255,51.4330992</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3381067,51.4253803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3116407,51.4186749</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1923202,51.4551538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[Clothes and glass]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.190582,51.452186</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Clothes &amp; Shoes</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1968683,51.4403220</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2475528,51.4378346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1437669,51.4930064</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1368805,51.4978634</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1320532,51.4947280</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1588427,51.4878709</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1429615,51.4924953</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1448525,51.4906678</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1436245,51.4901190</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.147559,51.4907106</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1382556,51.4904578</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1390290,51.4898053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1412479,51.4875152</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1421829,51.4894582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1384342,51.4922994</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1372972,51.4912273</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1451291,51.4867883</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.138324,51.487085</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1104799,51.5014045</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1278303,51.4947749</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1059804,51.5031406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1064635,51.4999411</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1069437,51.5013242</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0942931,51.4972414</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0970625,51.4949624</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0907159,51.4980629</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Rockingham Street</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0970318,51.4956636</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1305636,51.4907501</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1300363,51.4888578</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1063873,51.4906945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0903371,51.4920499</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0911064,51.4911946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.102074,51.48681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1640920,51.4704622</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, clothes, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1389231,51.4616845</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1224342,51.4723600</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1005044,51.4802321</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0994142,51.4723434</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0986099,51.4754513</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0984311,51.4716504</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0899232,51.4762673</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0928039,51.4755514</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1042927,51.4696509</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1049238,51.4679248</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0968831,51.4705677</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0896383,51.4677898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0895893,51.4678015</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0919248,51.4611314</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0855484,51.5004736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0749154,51.5029905</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0843117,51.4935748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0773818,51.4970497</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0862451,51.4953629</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0869823,51.4956538</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0673975,51.4940371</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0547854,51.4995956</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0517125,51.5008631</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0582562,51.4945241</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0856173,51.4886366</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0753507,51.4894124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, glass_bottles, paper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0829548,51.4846874</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0836016,51.4865525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0632188,51.4862089</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0465038,51.4846069</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0093801,51.4963714</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0075959,51.4951941</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0741202,51.4799124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, glass_bottles, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0844660,51.4729636</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, glass_bottles, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0756215,51.4725898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0697006,51.4725816</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0697467,51.4715733</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0478390,51.4779489</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, clothes, glass_bottles, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0828864,51.4697484</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, glass_bottles, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0696771,51.4685724</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0662192,51.4672129</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0693391,51.4702682</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, clothes, glass_bottles, paper, plastic_bags, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0828173,51.4629296</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, glass_bottles, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0799334,51.4616141</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass_bottles, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0850033,51.4643865</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0802021,51.4616896</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0757577,51.4608582</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0423270,51.4816898</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0386903,51.475209</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0149729,51.4810462</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0358538,51.4635331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0044966,51.4620549</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1509182,51.4430459</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1223202,51.4490774</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1141664,51.4526424</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1082013,51.4594817</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1468282,51.4319692</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass_bottles, paper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0620510,51.4589007</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Sainsburys</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0555432,51.4405052</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0557853,51.4379729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0750733,51.4188926</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0549989,51.4192369</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0393133,51.4254949</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3017239,51.4156186</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2875397,51.4137771</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2740553,51.4074137</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3052043,51.3942185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2801380,51.3986131</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3043104,51.3928643</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3031674,51.3921561</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2816703,51.3898427</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2823202,51.3901136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2812227,51.3813983</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1807741,51.4159775</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Garth Road Recycling and Reuse Centre</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, books, cans, cardboard, clothes, engine_oil, glass_bottles, green_waste, hardcore, mobile_phones, newspaper, paper, plastic_bottles, scrap_metal, wood, </p><p><strong>Operator:</strong> London Borough of Merton</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2279924,51.3848478</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Kimpton Park Way Re-Use and Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p><p><strong>Operator:</strong> London Borough of Sutton</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2120200,51.3787769</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2240896,51.3686399</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2171005,51.3569562</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2158129,51.3603950</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1908861,51.3586376</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2560903,51.3409523</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2598081,51.3344013</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1968129,51.3477047</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1586103,51.4124052</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1745892,51.3853829</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, paper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1562411,51.3816716</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, paper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1551824,51.3822196</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, paper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1552888,51.3823886</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, paper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1565175,51.3828745</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Factory Lane Reuse and Recycling Centre &amp; Trade Waste Station</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1150205,51.3776405</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0945764,51.3721107</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0672163,51.4068685</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0536474,51.4130834</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0647347,51.4062668</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0270004,51.4065325</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0230623,51.4100188</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Denmark Road</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1647083,51.3702534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, cardboard, clothes, glass, newspaper, plastic_bottles, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1613271,51.3653346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1732199,51.3525200</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1479229,51.3562433</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1514405,51.3574297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1339863,51.3601884</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1344506,51.3531255</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1293848,51.3567054</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Fountain Drive</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1664420,51.3494639</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1033543,51.3451615</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0208454,51.3418495</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0141788,51.3406765</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.5096810,51.3229923</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.4340184,51.2775588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3740412,51.2783503</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3728699,51.2771546</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3649056,51.2286365</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2292692,51.3018500</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2413487,51.2838076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1751654,51.3099913</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, cans, clothes, glass, paper, scrap_metal, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0918333,51.2867168</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0948938,51.2876065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0724454,51.2975039</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1502611,51.2639345</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1444589,51.2605132</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1691748,51.2432041</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.0784364,51.2811848</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3411512,51.2387883</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.3261427,51.2355003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2776493,51.2231270</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2088112,51.2370239</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2046586,51.2388332</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1765025,51.2396836</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1982863,51.2242623</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.2066921,51.2218681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1677056,51.2391387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1643076,51.2400930</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1725961,51.2195647</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1722957,51.2195916</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0415236,51.7695910</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1291287,51.7912575</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1338703,51.7830885</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0031431,51.7661324</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2448841,51.7058347</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0023797,51.6308703</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Kings Road Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0045372,51.6270413</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0141609,51.6150585</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0640595,51.6260300</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0422288,51.5983141</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0278140,51.5923461</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2196450,51.5926395</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2358840,51.5942270</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.3177837,51.5919068</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0154639,51.5846249</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0239432,51.580958</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Tesco public recycling dropoff</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0123045,51.5712796</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0591390,51.5779305</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0074084,51.5679775</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0429846,51.5623990</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0052149,51.5486160</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0430760,51.5584811</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0626701,51.5519961</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Tesco Recycling</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1148108,51.5670267</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0084066,51.5373646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0054699,51.5382528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0227650,51.5392400</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0053860,51.5336617</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0074207,51.5360833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0108698,51.5344489</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0118093,51.5339207</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0056459,51.5292292</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0178887,51.5266412</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0604212,51.5446741</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0477065,51.5399450</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0574687,51.5407079</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0635421,51.5397021</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0051917,51.5230650</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0237657,51.5248065</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0274221,51.5247051</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0311899,51.5225134</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0317684,51.5153943</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0140200,51.5121689</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0251741,51.5115375</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0339138,51.5101684</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0503979,51.5163383</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0746598,51.516901</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0166174,51.4885213</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, cans, clothes, glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0684034,51.4898609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0098275,51.4659880</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0204824,51.4632758</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0181125,51.4628254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0199701,51.4635384</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0190448,51.4621812</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0279257,51.4634225</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0131765,51.4557464</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0085329,51.4541643</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0578552,51.449778</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0581985,51.4497646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Bexley Council Recycling</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0938238,51.4571245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1018943,51.4353717</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1216790,51.4160750</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1803048,51.4503718</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2182193,51.4433938</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cans, clothes, glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2284846,51.4501518</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2607291,51.4428669</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1962180,51.4311900</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2918485,51.4499573</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.3449281,51.4314071</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Pepper Hill Tip</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.3292655,51.4262998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0112825,51.4068884</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0149924,51.4065207</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0376782,51.3972190</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Waldo Road Reuse &amp; Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0342329,51.3993284</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0207444,51.3875038</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0311045,51.3897085</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1611240,51.4099308</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1753346,51.4096291</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1714781,51.4016777</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1741141,51.3978439</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1057909,51.3568814</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1772421,51.3943025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1970562,51.3867224</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> clothes, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1779871,51.3323528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> paper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1780215,51.3323416</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> glass, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1780441,51.3323595</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2589187,51.3444521</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1654534,51.2888060</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cardboard, clothes, glass_bottles, newspaper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1937717,51.2972033</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> cardboard, clothes, glass_bottles, newspaper, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2182793,51.2891058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.2302040,51.3061240</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.3118969,51.3110254</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.3018672,51.2884331</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.1901070,51.2702112</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.0632127,51.2011844</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Recycling bin(s)</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1166227,51.5495102333333</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Garth Road Recycling and Reuse Centre</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, books, cans, cardboard, clothes, engine_oil, glass_bottles, green_waste, hardcore, mobile_phones, newspaper, paper, plastic_bottles, scrap_metal, wood, </p><p><strong>Operator:</strong> London Borough of Merton</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.227899772727273,51.3849736727273</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Kimpton Park Way Re-Use and Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p><p><strong>Operator:</strong> London Borough of Sutton</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.21200638,51.37868866</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Leyton Reuse and Recycling Centre</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.01437515,51.558478125</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Coxtie Green Road Recycling Centre</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, cans, clothes, glass, paper, scrap_metal, </p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>0.27261964,51.63725766</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Cringle Dock Transfer Station</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, books, cans, cardboard, cartons, clothes, cork, engine_oil, glass, green_waste, paper, scrap_metal, tv_monitor, </p><p><strong>Operator:</strong> Western Riverside Waste Authority</p>]]></description>
+	<styleUrl>#wasteRecyclingBin</styleUrl>
+	<Point>
+		<coordinates>-0.1415901,51.4821125571428</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Manor Place waste reuse and recycling centre</name>
+	<description><![CDATA[<p><strong>Recycling facilities for:</strong> batteries, cans, cardboard, cartons, cds, clothes, cooking_oil, electrical_items, engine_oil, fluorescent_tubes, garden_waste, glass, glass_bottles, green_waste, low_energy_bulbs, mobile_phones, paint, paper, paper_packaging, plasterboard, plastic_bottles, plastic_packaging, scrap_metal, tyres, wood, </p><p><strong>More information:</strong> <a href="http://www.southwark.gov.uk/info/200084/recycling_and_waste/1364/household_waste_reuse_and_recycling_centre">Website</a> </p>]]></description>
+	<styleUrl>#wasteRecyclingDepot</styleUrl>
+	<Point>
+		<coordinates>-0.09818175,51.4882090666667</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Landfill site</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteLandfill</styleUrl>
+	<Point>
+		<coordinates>-0.333847809090909,51.4967019272727</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Landfill site</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteLandfill</styleUrl>
+	<Point>
+		<coordinates>0.296597016666667,51.4467612333333</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Sandpit</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteLandfill</styleUrl>
+	<Point>
+		<coordinates>-0.493784091891892,51.2238941324324</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>water pumping station</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteLandfill</styleUrl>
+	<Point>
+		<coordinates>-0.0168356,51.6632818666667</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Landfill site</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteLandfill</styleUrl>
+	<Point>
+		<coordinates>-0.0536334,51.6189248333333</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Landfill site</name>
+	<description><![CDATA[<p>No further details known</p>]]></description>
+	<styleUrl>#wasteLandfill</styleUrl>
+	<Point>
+		<coordinates>0.00530238888888889,51.5860674333333</coordinates>
+	</Point>
+</Placemark>
+</Document></kml>

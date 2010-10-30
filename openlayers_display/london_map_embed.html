@@ -1,0 +1,25 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <link rel="stylesheet" href="script/style.css" TYPE="text/css">
+    <script type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"></script>
+    <script type="text/javascript" src="http://www.openstreetmap.org/openlayers/OpenStreetMap.js"></script>
+    <script type="text/javascript" src="script/sustainabilitymap.js"></script>
+	<!--[if lt IE 7]>
+	<link rel="stylesheet" href="/script/ie6-fix.css" type="text/css">
+	<script type="text/javascript" src="/script/ie6-fix.js"></script>
+	<![endif]-->
+    <script type="text/javascript">
+      function init() {
+        initMap(-0.1, 51.5, 11);
+      }
+    </script>
+  </head>
+
+  <body onload="init()">
+
+    <div id="map"></div>
+
+  </body>
+
+</html>

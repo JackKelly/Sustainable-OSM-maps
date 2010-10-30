@@ -1,0 +1,44 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <title>Sustainable London map</title>
+    <link rel="stylesheet" href="script/style.css" TYPE="text/css">
+    <script type="text/javascript" src="http://www.openlayers.org/api/OpenLayers.js"></script>
+    <script type="text/javascript" src="http://www.openstreetmap.org/openlayers/OpenStreetMap.js"></script>
+    <script type="text/javascript" src="script/layerswitcher.js"></script>
+    <script type="text/javascript" src="script/sustainabilitymap_dev.js"></script>
+        <!--[if lt IE 7]>
+        <link rel="stylesheet" href="/script/ie6-fix.css" type="text/css">
+        <script type="text/javascript" src="/script/ie6-fix.js"></script>
+        <![endif]-->
+    <script type="text/javascript">
+      function init() {
+        initMap(-0.1, 51.5, 11);
+      }
+    </script>
+  </head>
+
+  <body onload='init()'>
+
+  <div id="header">
+    <h1>Sustainable London map</h1>
+  </div>
+
+  <div id="menu">
+    <ul>
+      <li><a href="london.html">The map</a></li>
+      <li><a href="london_data.html">Where the data comes from</a></li>
+      <li><a href="london_use.html">Using the map on your web site</a></li>
+    </ul>
+  </div>
+
+  <div id="contents">
+    </p>This map highlights aspects of sustainable living in London.</p>
+  </div>
+
+  <div id="layerswitcher" class="olControlLayerSwitcher"></div>
+  <div id="map"></div>
+
+  </body>
+
+</html>

@@ -1,0 +1,156 @@
+#map {
+        width: 100%;
+        height: 99%;
+        border: 0px;
+        padding: 0px;
+        position: absolute;
+     }
+body {
+        border: 0px;
+        margin: 0px;
+        padding: 0px;
+        height: 100%;
+	font-family: corbel, helvetica, sans;
+}
+
+#header {
+	background-color: #73A533;
+	color: white;
+	margin: 0;
+	padding: 3px;
+}
+
+h1 {
+  font-size: 2.5em;
+  margin: 0;
+}
+
+h2, h3, h4 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+ul {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+#menu {
+	background-color: white;
+	width: auto;
+	border-bottom: solid thin #73A533;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0;
+	clear: both;
+}
+
+#menu ul li {
+	display: inline;
+	margin: 0;
+}
+
+#menu ul a:link, #menu ul a:visited {
+	display: block;
+	float: left;
+	border-right: solid thin #73A533;
+	padding: 5px; 
+	background-color: transparent;
+	color: #73A533;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#menu ul a:link:hover, #menu ul a:visited:hover {
+        background-color: #73A533;
+        color: white;   
+        font-weight: bold;    
+        text-decoration: none;
+}
+
+#contents {
+	clear: both;
+	padding: 5px;
+}
+
+.code {
+	padding: 5px;
+	border: dashed thin grey;
+	font-family: monospace;
+}
+
+.olControlPermalink {
+	background-color: #73A533;
+	color: white;
+	padding: 5px;
+	font-weight: bold;
+}
+
+.olControlPermalink a {
+	color: white;
+}
+
+/* popup related styles */
+/*.olPopup
+{
+	overflow:inherit;
+}
+
+.olPopup *
+{
+	margin: 0px;
+	padding:0px;
+	font-size: 12px;
+}
+
+.olPopup a.close
+{
+	width: 14px;
+	height: 14px;
+	position: absolute;
+	top: 10px;
+	right: 28px;
+	background: url(script/img/close.gif) no-repeat top left;
+	margin: 0px;
+	font-size: 1px;
+	padding: 0px;
+}
+
+.olPopup a.close:hover
+{
+	background: url(script/img/close-hover.gif) no-repeat top left;
+}
+
+.olPopup .olPopupContent
+{
+	min-width:200px;
+	background-color: #ffffff !important;
+	padding: 1px !important;
+	margin: 0px !important;
+	font-size: 0.80em;
+}
+
+.olPopup .olPopupContent h2
+{
+	font-size: small;
+	text-align: center;
+	padding: 2px 0px 2px 0px;
+	margin: 0px 6px 0px 6px;
+	text-transform:capitalize;
+}
+
+.olPopup .olPopupContent table
+{
+	border-collapse:collapse;
+	overflow: auto;
+	padding: 0px;
+}
+
+.olPopupContent table td
+{
+	padding: 4px;
+	border: 1px solid #cccccc;
+}
+*/

@@ -1,0 +1,2303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Low carbon power generators in the UK</name>
+<Style id="powerGeothermal">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_geothermal.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerHydro">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_hydro.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerDefault">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_default.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerSea">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_sea.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerBiomass">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_biomass.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerWind">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_wind.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerWaste">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_waste.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerGas">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_gas.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerSolar">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_solar.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+
+
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2117555,57.1488599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2114838,57.1487868</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-6.2116834,57.1487829</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Hydro generator</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerHydro</styleUrl>
+	<Point>
+		<coordinates>-4.686542,57.5743022</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-5.1818754,57.2325042</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-5.0027234,56.8052712</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.8950287,56.4833611</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.8979684,56.485091</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-5.7556657,56.0549422</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-5.7577402,55.659407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-5.7572446,55.6598454</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-5.7579125,55.659862</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.1623679,55.7540076</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8456063,55.2500197</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2.5 MW</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.6266007,55.1014229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2.5 MW</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.6242841,55.1040013</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.7516741,54.8617348</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.684711,54.8470594</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1220968,53.4666552</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1229551,53.4698229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1220968,53.4634872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1220968,53.4601146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1092222,53.4732969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1176336,53.4732969</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1171186,53.466553</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1109388,53.466553</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1178053,53.4697207</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1116255,53.4698229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1059606,53.4663486</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.106304,53.4696185</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1171186,53.463385</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1117971,53.4634872</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1171186,53.4601146</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1123121,53.4604212</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1056173,53.4632828</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1100805,53.4570484</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.1039007,53.4572528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.0985792,53.4574572</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.688438,54.8233966</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.6961897,54.8187119</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.6879674,54.820524</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.6893025,54.8165422</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.4330464,54.833976</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.4263578,54.8341797</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.4323545,54.8319125</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.4271881,54.8317708</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.4411556,54.7235145</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.4414065,54.7196443</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.442179,54.7216272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.4410632,54.7173142</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.6341653,54.3374124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.3014076,54.6929297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.2756802,54.7007751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.2959144,54.692136</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.3755169,54.6527352</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Waste-to-energy </name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 49 MW</p><p><strong>Operator:</strong> Air Products</p>]]></description>
+	<styleUrl>#powerWaste</styleUrl>
+	<Point>
+		<coordinates>-1.195495,54.5977346</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.6040031,53.8264721</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.0071635,53.7573218</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.54016,53.7650058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9351564,53.7580599</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9393556,53.7556774</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9267117,53.7291505</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9426053,53.725987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.939193,53.7237009</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.937042,53.7264166</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.928921,53.7253861</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9325463,53.7270534</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9234262,53.726635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9212482,53.7302982</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9156089,53.7295175</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9454614,53.7227424</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.3432482,53.7731581</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2440637,52.5395787</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2470934,52.5380476</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2434104,52.5372178</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2411429,52.5412227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2413863,52.5353087</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2208765,52.5505323</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2191722,52.5478407</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2170674,52.5498304</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2194321,52.5455813</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2360507,52.5390917</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2400412,52.5388229</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.237146,52.5413707</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2332772,52.5418226</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2382733,52.5366879</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2321755,52.5393528</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2304588,52.5369373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2376072,52.5342801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2346735,52.5363918</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2360186,52.5321527</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2310865,52.5320124</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 2 MW</p><p><strong>Operator:</strong> Ballywater Windfarms Ltd</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-6.2280376,52.5307733</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.4680632,53.4359307</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.4896522,52.8765852</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.0743409,53.2984842</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.2294108,52.7657623</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.9322954,52.3991531</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.7820667,52.7193364</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1803256,52.5611468</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1773537,52.5608406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1761528,52.56237</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1711399,52.556601</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Cornwall Light &amp; Power</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.119876,52.4626265</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.7094997,52.0392364</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.7095451,52.0393761</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.7097228,52.0393209</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.6564651,52.3660442</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.6569371,52.3632245</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.6529632,52.3636962</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.6296027,52.3625221</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0757046,52.2156921</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0598231,52.0828748</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.9209937,51.6095892</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.6704089,51.6792832</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5451921,50.6477803</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5314378,50.6508552</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5448488,50.645304</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5299143,50.6435895</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5451921,50.6391669</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5399779,50.6408816</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5352143,50.6389492</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5331115,50.6413987</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5219106,50.6427458</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5256227,50.6466102</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.5224685,50.6396024</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.1008408,51.1410724</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.8730256,50.7863488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-3.316825,50.8069412</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.2676696,51.7023989</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.7082476,51.5123186</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.7063593,51.5141881</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.7123674,51.5087395</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.658624,51.621454</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.655771,51.621207</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.653099,51.620801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.6504837,51.6204789</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.6478739,51.6200672</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-1.177889,51.7636853</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1333364,51.9150831</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.4352316,51.708324</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.9860172,51.4186754</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[Wind turbine on school property]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.2400364,51.6024387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1037646,51.5439946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 6 kW</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1049542,51.5047616</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 6 kW</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1049604,51.5045406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 15 kW</p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.1049542,51.5046578</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.040291,51.5296563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[Solar photovoltaic array on top of City Hall<p><strong>Electrical rating:</strong> 81 kW</p><p><img src="http://farm4.static.flickr.com/3446/3763496262_ce6c9456f7_m.jpg"></p><p><strong>More information:</strong> <a href="http://www.london.gov.uk/city-hall/the-building/solar-power">Website</a> <a href="http://en.wikipedia.org/wiki/City_Hall_London">Wikipedia article</a></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0785864,51.5048086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[On top of the Strata Tower<p><strong>Electrical rating:</strong> 19 kW</p><p><img src="http://farm5.static.flickr.com/4071/4473026700_906880382c_m.jpg"></p><p><strong>More information:</strong> <a href="http://http://www.stratalondon.com/">Website</a> </p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0996288,51.4928903</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[On top of the Strata Tower<p><strong>Electrical rating:</strong> 19 kW</p><p><img src="http://farm5.static.flickr.com/4071/4473026700_906880382c_m.jpg"></p><p><strong>More information:</strong> <a href="http://http://www.stratalondon.com/">Website</a> </p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0995299,51.4928645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[On top of the Strata Tower<p><strong>Electrical rating:</strong> 19 kW</p><p><img src="http://farm5.static.flickr.com/4071/4473026700_906880382c_m.jpg"></p><p><strong>More information:</strong> <a href="http://http://www.stratalondon.com/">Website</a> </p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0997323,51.4928946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[Solar pv panels on roof of Battersea fire station]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.1692372,51.4671488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Gas combined heat and power plant</name>
+	<description><![CDATA[Battersea fire station&#39;s Dachs gas-fired mini-CHP]]></description>
+	<styleUrl>#powerGas</styleUrl>
+	<Point>
+		<coordinates>-0.1693576,51.467078</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Biomass stove</name>
+	<description><![CDATA[Domestic wood burning stove]]></description>
+	<styleUrl>#powerBiomass</styleUrl>
+	<Point>
+		<coordinates>-0.0848927,51.4799844</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[Micro-wind turbine fixed on roof]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0849063,51.4800028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Evacuated tube solar panels]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0849092,51.4799618</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal flat panel on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0693648,51.4671021</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal evacuated tube on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.071501,51.4659457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal evacuated tube on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0717509,51.4659028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal flat panel on rear extension of house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0685582,51.4661729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal evacuated tube on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0718274,51.4658924</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal evacuated tube on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0682216,51.4651677</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[Solar photovoltaic panels on roof of apartment block]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0732673,51.4649652</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal panel on private house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0703777,51.4634537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-2.582198,51.254265</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8616509,50.4831272</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8601673,50.4840979</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8652478,50.4832964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8596914,50.4824681</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8558985,50.4837149</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8537712,50.4830559</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8615389,50.4815419</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8573961,50.4817646</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.8644361,50.4821653</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-4.855034,50.4817261</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2321785,53.3238269</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2324038,53.3227951</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2287882,53.3183219</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2299683,53.3171297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2269964,53.320879</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2299683,53.3219749</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2279835,53.3197382</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2304404,53.3206675</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2369421,53.3185141</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2348821,53.3178091</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2322858,53.3178219</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2316849,53.3193729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2352469,53.3198985</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2344959,53.3209751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2373927,53.3214109</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.2385299,53.3199882</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.121379,52.7097062</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.0678341,52.6145073</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.0869447,52.5741558</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.1502691,52.5821945</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.6838213,52.6567654</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.7012306,52.6567571</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.0047766,52.4182053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.7172857,52.6302642</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.1147636,52.2342298</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.1351599,52.2363635</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.3908439,52.1878044</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.3892961,52.1874394</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.4876602,52.153369</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6659854,52.7135011</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.666157,52.7127471</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.668174,52.7137091</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6683886,52.7129292</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6548274,52.7097053</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6663716,52.7120192</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6666291,52.7112913</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6668437,52.7105633</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6685603,52.7121751</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6687749,52.7114473</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 250 kW</p><p><strong>Operator:</strong> E:ON</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.6690324,52.7106933</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.7899796,52.6488249</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.7612594,52.4801151</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.8937423,51.8830609</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.2115244,52.0260297</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>More information:</strong> <a href="http://en.wikipedia.org/wiki/Gunfleet_Sands_Offshore_Wind_Farm">Wikipedia article</a></p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.2894251,51.7203354</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 120 kW</p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>0.0230482,51.5498747</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 1.8 MW</p><p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.1599554,51.5163687</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.4200311,51.4037801</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>More information:</strong> <a href="http://en.wikipedia.org/wiki/Greater_Gabbard">Wikipedia article</a></p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.9095963,51.9391883</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>More information:</strong> <a href="http://en.wikipedia.org/wiki/London_Array">Wikipedia article</a></p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5540392,51.643637</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.293898,51.1538115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5806752,50.0884381</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5778797,50.0843919</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5788291,50.0859892</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.576894,50.0827588</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5770707,50.080853</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5744183,50.0788367</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5872836,50.0890131</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5873448,50.0871736</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5877059,50.0848291</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5878158,50.0824722</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5880065,50.0781087</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.5879134,50.080302</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8731002,50.0960225</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8733202,50.0952781</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8749144,50.0929648</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8749471,50.09108</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8744621,50.091793</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8760455,50.0894652</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8754806,50.0902957</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8770167,50.0880373</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.876494,50.0888058</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.875585,50.0915871</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8789879,50.0867246</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8817382,50.0849542</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8867001,50.0816115</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8839501,50.083382</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.8889935,50.0805516</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.9093349,50.0769541</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.9044905,50.0770477</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.9151125,50.0769529</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>1.9193339,50.0768789</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.8450032,49.8421964</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.8438415,49.8412077</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.8433208,49.8408364</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.8415911,49.8396723</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.8464185,49.8432461</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.9301741,49.8025897</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Geothermal heat pump</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerGeothermal</styleUrl>
+	<Point>
+		<coordinates>-1.409605875,50.90473045</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Biomass combined heat and power plant</name>
+	<description><![CDATA[BedZED&#39;s biomass combined heat and power plant (offline until owners repair or replace)<p><strong>Electrical rating:</strong> 120 kW</p><p><strong>Hot water rating:</strong> 250 kW</p><p><img src="http://farm2.static.flickr.com/1245/1016173409_4c12e3eea4_m.jpg"></p>]]></description>
+	<styleUrl>#powerBiomass</styleUrl>
+	<Point>
+		<coordinates>-0.1564812,51.3830227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Biomass </name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerBiomass</styleUrl>
+	<Point>
+		<coordinates>-4.147510925000001,51.84476595</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.15548345,51.38203275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.15606145,51.381888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Waste-to-energy combined heat and power plant</name>
+	<description><![CDATA[No further details known<p><strong>Operator:</strong> Waste Recycling Group Limited</p>]]></description>
+	<styleUrl>#powerWaste</styleUrl>
+	<Point>
+		<coordinates>-1.135143708333333,52.9459822166667</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.15562695,51.382249525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.156556275,51.38255715</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.156649975,51.3827107</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.1556525,51.3824457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.156221375,51.38211025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.156327525,51.38229025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Waste-to-energy combined heat and power plant</name>
+	<description><![CDATA[SELCHP waste mass-burn incinerator<p><strong>Electrical rating:</strong> 35 MW</p><p><img src="http://farm4.static.flickr.com/3356/4626875065_a0005c9f9d_m.jpg"></p><p><strong>More information:</strong> <a href="http://www.selchp.com/">Website</a> <a href="http://en.wikipedia.org/wiki/SELCHP">Wikipedia article</a></p>]]></description>
+	<styleUrl>#powerWaste</styleUrl>
+	<Point>
+		<coordinates>-0.0471841833333333,51.4858363</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Gas combined heat and power plant</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 1875 MW</p><p><strong>Operator:</strong> GDF Suez</p><p><strong>More information:</strong> <a href="http://en.wikipedia.org/wiki/Teesside_power_station">Wikipedia article</a></p>]]></description>
+	<styleUrl>#powerGas</styleUrl>
+	<Point>
+		<coordinates>-1.128661583333333,54.5758186833333</coordinates>
+	</Point>
+</Placemark>
+</Document></kml>

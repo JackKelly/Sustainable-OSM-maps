@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Low carbon power generators in London</name>
+<Style id="powerGeothermal">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_geothermal.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerHydro">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_hydro.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerDefault">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_default.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerSea">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_sea.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerBiomass">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_biomass.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerWind">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_wind.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerWaste">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_waste.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerGas">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_gas.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+<Style id="powerSolar">
+	<IconStyle>
+		<Icon>
+			<href>http://tomchance.dev.openstreetmap.org/pois/power_solar.png</href>
+		</Icon>
+		<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+	</IconStyle>
+</Style>
+
+
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[Wind turbine on school property]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.2400364,51.6024387</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1037646,51.5439946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 6 kW</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1049542,51.5047616</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 6 kW</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.1049604,51.5045406</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 15 kW</p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.1049542,51.5046578</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.040291,51.5296563</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[Solar photovoltaic array on top of City Hall<p><strong>Electrical rating:</strong> 81 kW</p><p><img src="http://farm4.static.flickr.com/3446/3763496262_ce6c9456f7_m.jpg"></p><p><strong>More information:</strong> <a href="http://www.london.gov.uk/city-hall/the-building/solar-power">Website</a> <a href="http://en.wikipedia.org/wiki/City_Hall_London">Wikipedia article</a></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0785864,51.5048086</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[On top of the Strata Tower<p><strong>Electrical rating:</strong> 19 kW</p><p><img src="http://farm5.static.flickr.com/4071/4473026700_906880382c_m.jpg"></p><p><strong>More information:</strong> <a href="http://http://www.stratalondon.com/">Website</a> </p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0996288,51.4928903</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[On top of the Strata Tower<p><strong>Electrical rating:</strong> 19 kW</p><p><img src="http://farm5.static.flickr.com/4071/4473026700_906880382c_m.jpg"></p><p><strong>More information:</strong> <a href="http://http://www.stratalondon.com/">Website</a> </p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0995299,51.4928645</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[On top of the Strata Tower<p><strong>Electrical rating:</strong> 19 kW</p><p><img src="http://farm5.static.flickr.com/4071/4473026700_906880382c_m.jpg"></p><p><strong>More information:</strong> <a href="http://http://www.stratalondon.com/">Website</a> </p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0997323,51.4928946</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[Solar pv panels on roof of Battersea fire station]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.1692372,51.4671488</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Gas combined heat and power plant</name>
+	<description><![CDATA[Battersea fire station&#39;s Dachs gas-fired mini-CHP]]></description>
+	<styleUrl>#powerGas</styleUrl>
+	<Point>
+		<coordinates>-0.1693576,51.467078</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Biomass stove</name>
+	<description><![CDATA[Domestic wood burning stove]]></description>
+	<styleUrl>#powerBiomass</styleUrl>
+	<Point>
+		<coordinates>-0.0848927,51.4799844</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[Micro-wind turbine fixed on roof]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>-0.0849063,51.4800028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Evacuated tube solar panels]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0849092,51.4799618</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal flat panel on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0693648,51.4671021</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal evacuated tube on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.071501,51.4659457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal evacuated tube on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0717509,51.4659028</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal flat panel on rear extension of house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0685582,51.4661729</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal evacuated tube on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0718274,51.4658924</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal evacuated tube on house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0682216,51.4651677</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[Solar photovoltaic panels on roof of apartment block]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0732673,51.4649652</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar thermal heating panel(s)</name>
+	<description><![CDATA[Solar thermal panel on private house]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.0703777,51.4634537</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 120 kW</p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>0.0230482,51.5498747</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Wind turbine(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 1.8 MW</p><p><strong>Operator:</strong> Ecotricity</p>]]></description>
+	<styleUrl>#powerWind</styleUrl>
+	<Point>
+		<coordinates>0.1599554,51.5163687</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Biomass combined heat and power plant</name>
+	<description><![CDATA[BedZED&#39;s biomass combined heat and power plant (offline until owners repair or replace)<p><strong>Electrical rating:</strong> 120 kW</p><p><strong>Hot water rating:</strong> 250 kW</p><p><img src="http://farm2.static.flickr.com/1245/1016173409_4c12e3eea4_m.jpg"></p>]]></description>
+	<styleUrl>#powerBiomass</styleUrl>
+	<Point>
+		<coordinates>-0.1564812,51.3830227</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.15548345,51.38203275</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.15606145,51.381888</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.15562695,51.382249525</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.156556275,51.38255715</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.156649975,51.3827107</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.1556525,51.3824457</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.156221375,51.38211025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Solar photovoltaic panel(s)</name>
+	<description><![CDATA[No further details known<p><strong>Electrical rating:</strong> 12 kW</p><p><img src="http://farm2.static.flickr.com/1239/1008213420_7efcd7e950_m.jpg"></p>]]></description>
+	<styleUrl>#powerSolar</styleUrl>
+	<Point>
+		<coordinates>-0.156327525,51.38229025</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<name>Waste-to-energy combined heat and power plant</name>
+	<description><![CDATA[SELCHP waste mass-burn incinerator<p><strong>Electrical rating:</strong> 35 MW</p><p><img src="http://farm4.static.flickr.com/3356/4626875065_a0005c9f9d_m.jpg"></p><p><strong>More information:</strong> <a href="http://www.selchp.com/">Website</a> <a href="http://en.wikipedia.org/wiki/SELCHP">Wikipedia article</a></p>]]></description>
+	<styleUrl>#powerWaste</styleUrl>
+	<Point>
+		<coordinates>-0.0471841833333333,51.4858363</coordinates>
+	</Point>
+</Placemark>
+</Document></kml>

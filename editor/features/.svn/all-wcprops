@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23054/applications/editors/potlatch2/resources/features
+END
+paths__steps.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/20693/applications/editors/potlatch2/resources/features/paths__steps.png
+END
+paths__pedestrian.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23046/applications/editors/potlatch2/resources/features/paths__pedestrian.png
+END
+restriction__no_u_turn.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/22215/applications/editors/potlatch2/resources/features/restriction__no_u_turn.png
+END
+paths__unknown.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/18692/applications/editors/potlatch2/resources/features/paths__unknown.png
+END
+oneway__-1.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/17507/applications/editors/potlatch2/resources/features/oneway__-1.png
+END
+highway__motorway.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/16541/applications/editors/potlatch2/resources/features/highway__motorway.png
+END
+waterway__canal.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/18760/applications/editors/potlatch2/resources/features/waterway__canal.png
+END
+restriction__no_straight_on.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/22215/applications/editors/potlatch2/resources/features/restriction__no_straight_on.png
+END
+transport__bus.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/19320/applications/editors/potlatch2/resources/features/transport__bus.png
+END
+restriction__only_straight_on.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/22215/applications/editors/potlatch2/resources/features/restriction__only_straight_on.png
+END
+paths__steps.svg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/20693/applications/editors/potlatch2/resources/features/paths__steps.svg
+END
+paths__pedestrian.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23046/applications/editors/potlatch2/resources/features/paths__pedestrian.svg
+END
+paths__unknown.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/18692/applications/editors/potlatch2/resources/features/paths__unknown.svg
+END
+paths__bike.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/23046/applications/editors/potlatch2/resources/features/paths__bike.png
+END
+restriction__only_right_turn.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/22215/applications/editors/potlatch2/resources/features/restriction__only_right_turn.png
+END
+waterway__canal.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/18760/applications/editors/potlatch2/resources/features/waterway__canal.svg
+END
+power_low.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23029/applications/editors/potlatch2/resources/features/power_low.png
+END
+waterway__stream.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/18760/applications/editors/potlatch2/resources/features/waterway__stream.png
+END
+transport__tram.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/18763/applications/editors/potlatch2/resources/features/transport__tram.png
+END
+highway__service.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/16541/applications/editors/potlatch2/resources/features/highway__service.png
+END
+paths__bridleway.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/18692/applications/editors/potlatch2/resources/features/paths__bridleway.png
+END
+oneway__yes.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/17507/applications/editors/potlatch2/resources/features/oneway__yes.png
+END
+barrier_generic.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/23030/applications/editors/potlatch2/resources/features/barrier_generic.png
+END
+highway__trunk.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/16541/applications/editors/potlatch2/resources/features/highway__trunk.png
+END
+paths__bike.svg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/23046/applications/editors/potlatch2/resources/features/paths__bike.svg
+END
+transport__railway.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/18763/applications/editors/potlatch2/resources/features/transport__railway.png
+END
+waterway__dam.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/18760/applications/editors/potlatch2/resources/features/waterway__dam.png
+END
+transport__subway.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/18763/applications/editors/potlatch2/resources/features/transport__subway.png
+END
+paths__footway.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/18692/applications/editors/potlatch2/resources/features/paths__footway.png
+END
+waterway__stream.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/18760/applications/editors/potlatch2/resources/features/waterway__stream.svg
+END
+power_low.svg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23029/applications/editors/potlatch2/resources/features/power_low.svg
+END
+highway__unclassified.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/16541/applications/editors/potlatch2/resources/features/highway__unclassified.png
+END
+transport__tram.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/18763/applications/editors/potlatch2/resources/features/transport__tram.svg
+END
+cycle__lcn.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/19236/applications/editors/potlatch2/resources/features/cycle__lcn.png
+END
+power_high.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/23029/applications/editors/potlatch2/resources/features/power_high.png
+END
+paths__bridleway.svg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/18692/applications/editors/potlatch2/resources/features/paths__bridleway.svg
+END
+cycle__ncn.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/19236/applications/editors/potlatch2/resources/features/cycle__ncn.png
+END
+barrier_generic.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/23030/applications/editors/potlatch2/resources/features/barrier_generic.svg
+END
+oneway__no.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/17507/applications/editors/potlatch2/resources/features/oneway__no.png
+END
+transport__railway.svg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/18763/applications/editors/potlatch2/resources/features/transport__railway.svg
+END
+waterway__dam.svg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/18760/applications/editors/potlatch2/resources/features/waterway__dam.svg
+END
+cycle__rcn.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/19236/applications/editors/potlatch2/resources/features/cycle__rcn.png
+END
+transport__subway.svg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/18763/applications/editors/potlatch2/resources/features/transport__subway.svg
+END
+paths__footway.svg
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/18693/applications/editors/potlatch2/resources/features/paths__footway.svg
+END
+transport__railway_disused.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/23042/applications/editors/potlatch2/resources/features/transport__railway_disused.png
+END
+restriction__no_right_turn.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/22214/applications/editors/potlatch2/resources/features/restriction__no_right_turn.png
+END
+power_high.svg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/23029/applications/editors/potlatch2/resources/features/power_high.svg
+END
+waterway__river.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/18760/applications/editors/potlatch2/resources/features/waterway__river.png
+END
+transport__railway_abandoned.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/23042/applications/editors/potlatch2/resources/features/transport__railway_abandoned.png
+END
+restriction__no_left_turn.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/22214/applications/editors/potlatch2/resources/features/restriction__no_left_turn.png
+END
+highway__residential.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/16541/applications/editors/potlatch2/resources/features/highway__residential.png
+END
+waterway__river.svg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/18760/applications/editors/potlatch2/resources/features/waterway__river.svg
+END
+restriction__only_left_turn.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/22215/applications/editors/potlatch2/resources/features/restriction__only_left_turn.png
+END
+transport__railway_platform.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/23043/applications/editors/potlatch2/resources/features/transport__railway_platform.png
+END
