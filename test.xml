@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='xapi: OSM Extended API 2.0' attribution='http://wiki.openstreetmap.org/wiki/Attribution' xmlns:xapi='http://www.informationfreeway.org/xapi/0.6' xapi:uri='/api/0.6/*[amenity=recycling' xapi:planetDate='20101015' xapi:copyright='2010 OpenStreetMap contributors' xapi:license='Creative commons CC-BY-SA 2.0' xapi:bugs='For assistance or to report bugs contact 80n80n@gmail.com' xapi:instance='zappyHyper'>
+<bounds minlat='-90' minlon='-180' maxlat='90' maxlon='180'/>
+  <node id='569895657' lat='61.1108369' lon='-149.8561166' version='1' changeset='3201600' user='rsarwas' uid='119031' visible='true' timestamp='2009-11-24T04:33:46Z'>
+    <tag k='amenity' v='recycling'/>
+  </node>
+  <node id='588189401' lat='56.7538018' lon='-111.4609614' version='1' changeset='3360209' user='Zsuhdog' uid='207878' visible='true' timestamp='2009-12-13T02:47:51Z'>
+    <tag k='amenity' v='recycling'/>
+  </node>
+  <node id='518306354' lat='55.3264577' lon='-119.5538743' version='2' changeset='5325925' user='Jacob Pariseau@Darkesoft' uid='130125' visible='true' timestamp='2010-07-27T03:01:51Z'>
+    <tag k='amenity' v='recycling'/>
+    <tag k='name' v='Hythe Bottle Depot'/>
+    <tag k='note' v='Only Accessible via the alley'/>
+  </node>
+  <node id='304151449' lat='53.5655277' lon='-113.5215941' version='2' changeset='295145' user='AKC' uid='64065' visible='true' timestamp='2008-10-13T01:43:58Z'>
+    <tag k='amenity' v='recycling'/>
+    <tag k='created_by' v='Potlatch 0.10e'/>
+  </node>
+  <node id='908962041' lat='53.5606005' lon='-113.4837128' version='1' changeset='5762754' user='AKC' uid='64065' visible='true' timestamp='2010-09-12T18:27:52Z'>
+    <tag k='amenity' v='recycling'/>
+    <tag k='name' v='Univer Bottle Depot'/>
+    <tag k='recycling:beverage_cartons' v='yes'/>
+  </node>
+  <node id='599299154' lat='53.5436926' lon='-113.5345459' version='1' changeset='3449227' user='mavrek' uid='45497' visible='true' timestamp='2009-12-25T16:46:41Z'>
+    <tag k='amenity' v='recycling'/>
+    <tag k='name' v='Mountain Equipment Co-op Recycling Station'/>
+  </node>
+  <node id='462447434' lat='53.5439882' lon='-113.3062371' version='1' changeset='2121141' user='ShaunOt' uid='157077' visible='true' timestamp='2009-08-12T18:17:37Z'>
+    <tag k='amenity' v='recycling'/>
+    <tag k='name' v='Strathcona County Recycling Station'/>
+  </node>
+  <node id='632127783' lat='53.4870887' lon='-113.5111255' version='1' changeset='3810821' user='miken32' uid='230122' visible='true' timestamp='2010-02-07T04:20:53Z'>
+    <tag k='amenity' v='recycling'/>
+  </node>
+  <node id='862785687' lat='53.4581208' lon='-113.4831113' version='1' changeset='5506428' user='AKC' uid='64065' visible='true' timestamp='2010-08-16T06:11:16Z'>
+    <tag k='amenity' v='recycling'/>
+    <tag k='name' v='Millwoods Bottle Depot'/>
+    <tag k='recycling:beverage_cartons' v='yes'/>
+    <tag k='recycling:glass_bottles' v='yes'/>
+    <tag k='recycling:plastic_bottles' v='yes'/>
+    <tag k='website' v='http://www.bcmb.ab.ca/edmonton-bottle-depot.html#11'/>
+  </node>
+  <node id='659450779' lat='50.8127403' lon='-119.6912109' version='1' changeset='4018142' user='Neskie' uid='98127' visible='true' timestamp='2010-03-02T16:40:48Z'>
+    <tag k='amenity' v='recycling'/>
+  </node>
+  <node id='513974486' lat='50.7733064' lon='-119.7169949' version='2' changeset='2682910' user='Neskie' uid='98127' visible='true' timestamp='2009-09-29T23:08:42Z'>
+    <tag k='amenity' v='recycling'/>
+  </node>
+  <node id='521150458' lat='50.6903073' lon='-119.3185825' version='1' changeset='2746177' user='eskimo' uid='181765' visible='true' timestamp='2009-10-05T07:39:55Z'>
+    <tag k='amenity' v='recycling'/>
+    <tag k='name' v='Bill&apos;s Bottle Depot'/>
+  </node>

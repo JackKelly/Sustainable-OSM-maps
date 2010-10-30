@@ -1,0 +1,35 @@
+lat	lon	source	type	rating	method	name	description
+51.7083240	-0.4352316	wind					
+51.6024387	-0.2400364	wind					Wind turbine on school property
+51.5439946	-0.1037646	wind					
+51.5296563	-0.0402910	wind					
+51.4671488	-0.1692372	photovoltaic	electricity				Solar pv panels on roof of Battersea fire station
+51.467078	-0.1693576	gas	cogeneration				Battersea fire station's Dachs gas-fired mini-CHP
+51.2423849	-0.3068546	gas					
+51.5214886	0.1508890	wind					
+51.5159403	0.1655378	wind					
+51.4658876038461	0.240940430769231	fossil		Littlebrook Power Station	
+51.6629760125	-0.0225208				
+51.5047868464286	-0.0785639964285714	solar	electricity	City Hall	City Hall, home of the Greater London Authority and the Mayor of London.
+51.383022675	-0.1564812	biomass	cogeneration	BedZED CHP	BedZED's biomass combined heat and power plant (offline until owners repair or replace)
+51.38203275	-0.15548345	photovoltaic			
+51.381888	-0.15606145	photovoltaic			
+51.382249525	-0.15562695	photovoltaic			
+51.38255715	-0.156556275	photovoltaic			
+51.3827107	-0.156649975	photovoltaic			
+51.3824457	-0.1556525	photovoltaic			
+51.38211025	-0.156221375	photovoltaic			
+51.38229025	-0.156327525	photovoltaic			
+51.5213573888889	0.147224938888889	gas			
+51.4928856384615	-0.0996094230769231	wind	electricity	Strata Tower	Strata Tower, a 43-storey landmark building with three wind turbines on the top.
+51.75814135	0.003234175				
+51.762885325	0.0092992			Rye House Power Station	
+51.4858363	-0.0471841833333333	waste	cogeneration	South East London Combined heat and Power Ltd (SELCHP)	SELCHP waste mass-burn incinerator
+51.4651687	-0.068219525	solar	heat		Solar thermal evacuated tube on house
+51.4649676	-0.0732651	solar	electricity		Solar photovoltaic panels on roof of apartment block
+51.46615595	-0.0685357333333333	solar	heat		Solar thermal flat panel on rear extension of house
+51.4671004833333	-0.0693936833333333	solar	heat		Solar thermal flat panel on house
+51.4634450333333	-0.0703992166666667	solar	heat		Solar thermal panel on private house
+51.4659788333333	-0.07151685	solar	heat		Solar thermal evacuated tube on house
+51.4659337	-0.0717690666666667	solar	heat		Solar thermal evacuated tube on house
+51.4659227666667	-0.0718272	solar	heat		Solar thermal evacuated tube on house
