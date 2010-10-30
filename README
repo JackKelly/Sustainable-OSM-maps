@@ -1,0 +1,10 @@
+The sustainable OSM maps project is divided into three parts:
+
+* editor - a customised Potlatch 2 installation designed to make 
+  it easy to add the features we're interested in
+
+* kml_generator - a Python script that downloads interesting data
+  from the OpenStreetMap eXtended API and turns it onto pretty
+  KML files
+
+* openlayers_display - some OpenLayers files to display the results
